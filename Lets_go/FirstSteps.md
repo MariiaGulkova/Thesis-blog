@@ -18,4 +18,4 @@ Ill use illustrations/Twine/Figma/idk for the test day
 
 Writing, drawing, experimenting. 
 
-<img src="1.png" width="400px">
+<img src="Photos/1.png" width="400px">
