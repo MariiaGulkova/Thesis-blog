@@ -10,7 +10,7 @@ I want to experiment with my interviews, which i have done during my thesis, to 
 
 ### Test Day
 
-In Test Day I want to test narratives in Twine and maybe visuals
+In Test Day I want to test if my narrative in Twine works and if they are clear and maybe to test visual part
 
 ### Needs
 
