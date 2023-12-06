@@ -1,6 +1,6 @@
 ### Question
 
-How can I transform people experience about the propaganda - in Soviet Union and Nowdays in Social Media - in storytelling and create a visual experience? 
+How can I transform people experience about the propaganda - in Soviet Union and Nowdays in Social Media - in storytelling and create a informative visual experience? 
 
 ### Methods
 
@@ -12,8 +12,10 @@ In Test Day I want to test narratives in Twine and maybe visuals
 
 ### Needs
 
-Ill use illustrations/Twine/Figma for the test day
+Ill use illustrations/Twine/Figma/idk for the test day
 
 ### The next steps
 
 Writing, drawing, experimenting. 
+
+<img src="1.png" width="400px">
