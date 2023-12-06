@@ -6,7 +6,7 @@ How can I transform people experience about the propaganda - in Soviet Union and
 
 ### Methods
 
-I want to experiment with my interviews, which i have done during my thesis, to try to use them as a basement for narrative stories. And try different ways to visualize them 
+I want to experiment with my interviews, which i have done during my thesis, to try to use them as a basement for narrative story. And try different ways to visualize them 
 
 ### Test Day
 
