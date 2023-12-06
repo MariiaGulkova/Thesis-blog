@@ -1,3 +1,5 @@
+## Okay, lets go
+
 ### Question
 
 How can I transform people experience about the propaganda - in Soviet Union and Nowdays in Social Media - in storytelling and create a informative visual experience? 
