@@ -1,5 +1,7 @@
 ## Okay, lets go
 
+### 06.12.23
+
 ### What I want to explore
 
 How can I transform people's experience about the propaganda - in Soviet Union and Nowadays in Social Media - in storytelling and create a interactive visual experience?
