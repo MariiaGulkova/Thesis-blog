@@ -2,15 +2,15 @@
 
 ### What I want to explore
 
-How can I transform people experience about the propaganda - in Soviet Union and Nowdays in Social Media - in storytelling and create a informative visual experience 
+How can I transform people experience about the propaganda - in Soviet Union and Nowadays in Social Media - in storytelling and create a interactive visual experience
 
 ### Methods
 
-I want to experiment with my interviews, which i have done during my thesis, to try to use them as a basement for narrative story. And try different ways to visualize them 
+I want to experiment with Data from my interviews, which I have done during my thesis, to use them as a basement for a narrative story. And to try different ways to visualize them 
 
 ### Test Day
 
-In Test Day I want to test if my narrative in Twine works and if they are clear and maybe to test visual part
+In Test Day I want to test if my narrative in Twine works and if they are clear and maybe to test possibilities for visual part
 
 ### Needs
 
