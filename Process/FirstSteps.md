@@ -22,7 +22,7 @@ Writing, drawing, experimenting.
 
 ### Samples
 
-Prompt - "imagine soviet union propagandist, 1987, winter, I was on rearmament, we were at the stage of combat alignment, I was the commander of a separate anti-aircraft-missile division. It's minus 35 outside, it's night. There is a preparation for night fighting."
+Prompt - "imagine I`m soviet union propagandist, 1987, winter, I was on rearmament, we were at the stage of combat alignment, I was the commander of a separate anti-aircraft-missile division. It's minus 35 outside, it's night. There is a preparation for night fighting."
 
 Free Ai image generator
 
