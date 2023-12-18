@@ -10,6 +10,5 @@ There are also some interesting ideas - using the personal diary as a resource f
 
 I also got some interesting examples, namely the game The Stanley Parable, and the film Good Bye, Lenin!
 
-I will complete my notes from test day tomorrow 14.12.23 as I am dead at the moment
 
 Person 1
