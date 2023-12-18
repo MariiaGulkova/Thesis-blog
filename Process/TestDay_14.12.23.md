@@ -12,7 +12,7 @@ I also got some interesting examples, namely the game "The Stanley Parable", the
 
 ## Before lunch
 
-### Brief insights from the interview after the persona has gone through the story
+### Brief insights from the interviews after the persona has gone through the story
 
 ### Person 1
 
