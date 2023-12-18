@@ -76,7 +76,9 @@ I also got some interesting examples, namely the game "The Stanley Parable", the
 
 - Target audience
 
-<img src="Photos/18.png" width="400px">
+<img src="Photos/18.png" width="250px">
 
-<img src="Photos/19.png" width="400px">
+<img src="Photos/19.png" width="250px">
 
+
+### <a href="https://www.tumblr.com/thesis-blog-mariia-gulkova/737032601621151744/test-day?source=share">Video</a>
