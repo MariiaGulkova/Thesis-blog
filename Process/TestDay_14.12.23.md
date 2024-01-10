@@ -4,7 +4,7 @@
 
 So for me, the main aim of the test day was to find out if my story was clear and understandable, if it had any problems, etc.
 
-During the testing process it became clear that the essence of the story was clear to the audience. But there were some common points. The story needs more context and variety. As the main character is a child, the vocabulary should be appropriate to the time period. 
+During the testing process it became clear that the essence of the story was understandable to the audience. But there were some common points. The story needs more context and variety. As the main character is a child, the vocabulary should be appropriate to the time period. 
 
 There are also some interesting ideas - using the personal diary as a resource for where stories come from. It would also be interesting to compare how the possibility of influence varies with age and circumstances. 
 
