@@ -6,24 +6,26 @@
 
 #### <a href="https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/">Return of the Obra Dinn</a>
 
-https://www.cbr.com/3d-video-games-best-art-styles/#journey
+<a href="https://www.cbr.com/3d-video-games-best-art-styles/#journey">10 Most Iconic Art Styles In 3D Video Games</a>
 
-https://www.sbs.com.au/theboat/
+<a href="https://www.sbs.com.au/theboat/">visual novel - the boat</a>
 
-https://theinspirationgrid.com/editorial/the-10-most-beautiful-games-of-2022/
+<a href="https://theinspirationgrid.com/editorial/the-10-most-beautiful-games-of-2022/">The 10 Most Beautiful Games of 2022</a>
 
-https://www.smarttech3d.com/single-post/3d-scanning-in-gaming-new-way-of-creating-a-virtual-world
+<a href="https://www.smarttech3d.com/single-post/3d-scanning-in-gaming-new-way-of-creating-a-virtual-world">­3D scanning in gaming- new way of creating a virtual world</a>
 
-https://www.pcgamer.com/before-steam-puzzle-fest-ends-you-need-to-check-out-the-demo-for-the-most-mind-bending-puzzle-game-ive-ever-played/
+<a href="https://www.pcgamer.com/before-steam-puzzle-fest-ends-you-need-to-check-out-the-demo-for-the-most-mind-bending-puzzle-game-ive-ever-played/">Before Steam Puzzle Fest ends</a>
 
-https://www.behance.net/gallery/18754305/Black-White-3D-characters
+<a href="https://www.behance.net/gallery/18754305/Black-White-3D-characters">Black & White 3D characters</a>
 
-https://www.gameuidatabase.com/
+<a href="https://www.gameuidatabase.com/">screenshots</a>
 
-https://interfaceingame.com/screenshots/meteorfall-krumits-tale-dungeon-map/
+<a href="https://interfaceingame.com/screenshots/meteorfall-krumits-tale-dungeon-map/">screenshots02</a>
 
-#### https://store.steampowered.com/app/239030/Papers_Please/
+<a href="https://interfaceingame.com/screenshots/meteorfall-krumits-tale-dungeon-map/">screenshots02</a>
 
-#### https://dukope.com/trt/play.html
+#### <a href="https://store.steampowered.com/app/239030/Papers_Please/">Papers, Please</a>
+
+#### <a href="https://dukope.com/trt/play.html">The Republia Times</a>
 
 The most inspiring examples for me were the use of black and white photos in 3d space, and I wondered how feasible this was. So I started watching videos on YouTube on this subject.

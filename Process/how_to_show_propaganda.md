@@ -9,3 +9,7 @@ The novel is unanimously perceived as a "manifesto against political unanimity, 
 Konstantin Milchin notes that the plot novel "goes back to the famous poem by Martin Niemöller "When they came for the Communists, I was silent..." Only in Pavloff it all starts with cats and dogs.".
 
 #### <a href="https://www.npr.org/2024/03/14/1197963916/pomerantsev-propaganda">What Makes Propaganda Effective?</a>
+
+#### <a href="https://store.steampowered.com/app/239030/Papers_Please/">Papers, Please</a>
+
+#### <a href="https://dukope.com/trt/play.html">The Republia Times</a>
