@@ -8,4 +8,8 @@
 
 <img src="Photos/5t.png" width="800px">
 
+<img src="Photos/6t.png" width="800px">
+
+<img src="Photos/7t.png" width="800px">
+
 
