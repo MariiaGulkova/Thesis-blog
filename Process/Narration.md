@@ -182,3 +182,21 @@ And she told, that our country is the biggest and the greatest in the world! So 
 ### HOOK CHOICE
 
 —————————————————
+
+#### Questions/points
+
+- what is the hook choice gonna be
+
+- New Years Show Missing
+
+- finish university/social media part and upload on twine
+
+- How the voice interaction gonna work
+
+- whats gonna be around in the world/landskape
+
+- same stylistic everywhere
+
+- collect photos
+
+- storybord!!!
