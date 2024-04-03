@@ -6,6 +6,10 @@
 
 <img src="Photos/24.png" width="400px">
 
+<img src="Photos/narration_scheme.png" width="800px">
+
+<img src="Photos/narration_scheme02.png" width="800px">
+
 Hello, my name is Anastasia!
 
 It's Monday morning outside, the sun is shiiiiining~ 
@@ -88,6 +92,93 @@ The teacher was not angry anymore!
 
 —————————————————-
 
-HOOK CHOICE
+### HOOK CHOICE
+
+—————————————————
+
+Ohhhh I'm finally in school! 
+
+Let's go, I'll show you the class!
+
+[[Let's go]]
+
+——————————————
+
+That's my desk right there! 
+
+They are all the same, but I drew a flower on mine so I could always always find it~
+
+Do you like it? Say yes!
+
+[[Yes of course!|Like]]      [[I'm not sure, but lets say yes|Dislike]]
+
+——————————————
+
+
+Oh, oh, class is starting, what are we going to draw today?
+
+Flower!? Bunny!? Maybe ducky!?
+
+[[Maybe Bunny?|PaintStart]]
+
+——————————————
+
+Oh holy bunnies, we're gonna paint New York!
+
+But why?
+
+[[ I dont know too]]
+
+——————————————
+
+I do not understand too.
+
+But there’s nothing to do, let’s draw!
+
+I heard about New York! Dad listens to the radio at night, and there were something!
+
+Now I’ll draw it and show you, don’t peek!!!
+
+[[Goood, good]] [[Secretly peek]]
+
+——————————————
+
+Guess my drawing!
+
+[[1]] [[2]] [[3]]
+
+——————————————
+
+Yeeess! 
+
+On Radio people told that in New-York they have biiiiiiiiiiig builduing, so so big, and they builduing more and more!  So I draw lots of them~
+
+But also they told something else...
+
+[[What?]]
+
+——————————————
+
+They told, that people there dont like us! And that they want to fight us with biiig biiiiiig nuclear firecrackers… And that they build them i their cities!
+
+So I draw this nuclear firecrackers between buildings….
+
+And also they told that if our great great country and them gonna start poof poof to each other, there will be nothing left, only nuclear dust!
+
+Im not afraid but...
+
+[[But?]]
+
+——————————————
+
+I hope there won't be a big nuclear boom..... 
+
+I asked grandmom about that, after i heard this from the radio..
+
+And she told, that our country is the biggest and the greatest in the world! So no-one gonna be brave enouph to attack us! Soviet and Party gonna be here always!
+
+—————————————————-
+
+### HOOK CHOICE
 
 —————————————————
