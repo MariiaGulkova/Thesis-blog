@@ -16,19 +16,4 @@ file:///private/var/folders/65/grxk_ck510j4bkglcjrzg1cr0000gn/T/6988408b-c0d8-47
 
 
 
-
-#### Questions/points
-
-- what is the hook choice gonna be
-
-- New Years Show Missing
-
-- How the voice interaction gonna work
-
-- whats gonna be around in the world/landskape
-
-- same stylistic everywhere
-
-- collect photos
-
-- storybord!!!
+[Title](<../../../../Library/Mobile Documents/com~apple~CloudDocs/Downloads/Dyploma HEAD/_Invisible_.html>)
